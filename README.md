@@ -1,12 +1,10 @@
-## Hi there 👋
+## 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=1000&pause=1000&color=3518F7&multiline=true&width=435&lines=Hello%2C+Im+Ketan+Bhogshetti;Software+Developer+)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!--
-**Ketan-0807/Ketan-0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
